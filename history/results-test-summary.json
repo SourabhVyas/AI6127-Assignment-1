@@ -1,0 +1,74 @@
+{
+  "ff1": [
+    {
+      "epoch": "best",
+      "test_acc": 0.8640025575142687
+    }
+  ],
+  "ff2": [
+    {
+      "epoch": "best",
+      "test_acc": 0.8584878516319158
+    }
+  ],
+  "ff3": [
+    {
+      "epoch": "best",
+      "test_acc": 0.8589673913500803
+    }
+  ],
+  "cnn": [
+    {
+      "epoch": "best",
+      "test_acc": 0.8771259591097722
+    }
+  ],
+  "lstm": [
+    {
+      "epoch": "best",
+      "test_acc": 0.8271259590792839
+    }
+  ],
+  "bilstm": [
+    {
+      "epoch": "best",
+      "test_acc": 0.8488570971562125
+    }
+  ],
+  "rnn-Adagrad": [
+    {
+      "epoch": "best",
+      "test_acc": 0.6630594629765777
+    }
+  ],
+  "rnn-SGD": [
+    {
+      "epoch": "best",
+      "test_acc": 0.7361652812994349
+    }
+  ],
+  "rnn-Adam-e5": [
+    {
+      "epoch": "best",
+      "test_acc": 0.6958359975339202
+    }
+  ],
+  "rnn-Adam-e10": [
+    {
+      "epoch": "best",
+      "test_acc": 0.6976422633966217
+    }
+  ],
+  "rnn-Adam-e20": [
+    {
+      "epoch": "best",
+      "test_acc": 0.7661524936366264
+    }
+  ],
+  "rnn-Adam-e50": [
+    {
+      "epoch": "best",
+      "test_acc": 0.7135390026490097
+    }
+  ]
+}
