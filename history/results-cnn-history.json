@@ -6,7 +6,7 @@
     "valid_loss": 0.4775309830398883,
     "valid_acc": 0.7984639830508474,
     "time_mins": 0,
-    "time_secs": 4,
+    "time_secs": 5,
     "num_parameters": 2560801
   },
   {
@@ -76,7 +76,7 @@
     "valid_loss": 0.2928952429506738,
     "valid_acc": 0.8763682912972014,
     "time_mins": 0,
-    "time_secs": 6,
+    "time_secs": 4,
     "num_parameters": 2560801
   },
   {
@@ -246,7 +246,7 @@
     "valid_loss": 0.5710042841353659,
     "valid_acc": 0.86595162446216,
     "time_mins": 0,
-    "time_secs": 4,
+    "time_secs": 3,
     "num_parameters": 2560801
   },
   {

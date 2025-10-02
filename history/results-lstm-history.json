@@ -6,7 +6,7 @@
     "valid_loss": 0.8099147038439573,
     "valid_acc": 0.6229254946870318,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -16,7 +16,7 @@
     "valid_loss": 0.5580916361788572,
     "valid_acc": 0.7376412431062278,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -36,7 +36,7 @@
     "valid_loss": 0.4269579318115267,
     "valid_acc": 0.8157662431062278,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -46,7 +46,7 @@
     "valid_loss": 0.427779509733289,
     "valid_acc": 0.8189000709582184,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -56,7 +56,7 @@
     "valid_loss": 0.39670132997177415,
     "valid_acc": 0.8410575566655498,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -76,7 +76,7 @@
     "valid_loss": 0.3957929799364785,
     "valid_acc": 0.839424435364998,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -86,7 +86,7 @@
     "valid_loss": 0.45186932170290056,
     "valid_acc": 0.8260504946870318,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -106,7 +106,7 @@
     "valid_loss": 0.5377332295401621,
     "valid_acc": 0.7869438559322034,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -116,7 +116,7 @@
     "valid_loss": 0.5270290873565916,
     "valid_acc": 0.8598163845175404,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -126,7 +126,7 @@
     "valid_loss": 0.5686232801211082,
     "valid_acc": 0.8441472457627118,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -136,7 +136,7 @@
     "valid_loss": 0.58106356594017,
     "valid_acc": 0.8190324862124556,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -216,7 +216,7 @@
     "valid_loss": 0.9625950311705217,
     "valid_acc": 0.855976342144659,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -316,7 +316,7 @@
     "valid_loss": 1.0097960145291636,
     "valid_acc": 0.8566384184158454,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -376,7 +376,7 @@
     "valid_loss": 1.2411223362057895,
     "valid_acc": 0.8607432912972014,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -396,7 +396,7 @@
     "valid_loss": 1.2986835332240088,
     "valid_acc": 0.8590218929921166,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -406,7 +406,7 @@
     "valid_loss": 1.320951979544203,
     "valid_acc": 0.858757062483642,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -416,7 +416,7 @@
     "valid_loss": 1.3411028306868116,
     "valid_acc": 0.859154308246354,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -446,7 +446,7 @@
     "valid_loss": 1.403292865318767,
     "valid_acc": 0.8595515540090658,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -466,7 +466,7 @@
     "valid_loss": 1.4709672056517358,
     "valid_acc": 0.857830155703981,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -476,7 +476,7 @@
     "valid_loss": 1.4925184093289456,
     "valid_acc": 0.8607432912972014,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -486,7 +486,7 @@
     "valid_loss": 1.5110368688227767,
     "valid_acc": 0.8608757065514386,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   },
   {
@@ -496,7 +496,7 @@
     "valid_loss": 1.5182899216474113,
     "valid_acc": 0.8615377828226252,
     "time_mins": 0,
-    "time_secs": 10,
+    "time_secs": 9,
     "num_parameters": 2867049
   }
 ]
